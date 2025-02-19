@@ -11,3 +11,20 @@
     height: 100%;
     width: 100%;
   }
+  .tap {
+    height: 50%;
+    width: 100%;
+    font-size: 3em;
+    font-family: Arial;
+    text-align: center;
+    padding-top: 100px;
+  }
+  
+  .red {
+    background-color: rgb(248, 116, 116);
+    transform: rotate(180deg);
+  }
+  
+  .blue {
+    background-color: rgb(101, 101, 243);
+  }
